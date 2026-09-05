@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @danfouk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi, I'm Daniel 👋
 
-<!---
-danfouk/danfouk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I architect and build security and infrastructure systems — SOC/SIEM platforms,
+detection pipelines, network design — and I'm increasingly interested in where
+agentic AI is actually useful in security operations rather than just decorative.
+
+- 🔭 Currently building: multi-tenant log management and detection tooling
+- 🌱 Currently learning: agent orchestration, retrieval systems, evaluation for LLM-driven workflows
+- 🧰 Mostly work in: [languages/runtimes], [virtualization/container stack], [data stack]
+- 💬 Ask me about: detection engineering, log pipelines, SOC architecture,
+     and where automation earns its keep versus where it adds noise
+- 💞️ Open to collaborating on: open tooling for security operations and log ingestion
+- 📫 Reach me: [email] · [LinkedIn]
